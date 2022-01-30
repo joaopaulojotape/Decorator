@@ -1,1 +1,1 @@
-# Decorator
+# Padrões de projeto Decorator
